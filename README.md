@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sam Yusuf</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
-<img align="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
-" alt="Coding">
+<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samyusuf101" alt="samyusuf101" /></a> </p>
 
