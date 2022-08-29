@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Sam Yusuf</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
-<img align="https://www.google.com/search?q=animated+coding+gif&tbm=isch&chips=q:animated+coding+gif,online_chips:cartoon:H4dlUOCHY2Y%3D&hl=en&sa=X&ved=2ahUKEwjthtTo9Oz5AhUEGRoKHbHTDKEQ4lYoA3oECAEQKQ&biw=1349&bih=657#imgrc=6JyTXRGAxG6vLM
-">
+<img align="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
+" alt="Coding">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samyusuf101" alt="samyusuf101" /></a> </p>
 
