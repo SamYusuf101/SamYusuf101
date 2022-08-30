@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **samyusuf101@gmail.com**
 
-- ⚡ Fun fact **| I am funny and focused!!**
+- ⚡ Fun fact **| I am funny and focused!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
