@@ -17,7 +17,7 @@
 - 💬 Ask me about **React, ReactNative, Sanity**
 
 - 📫 How to reach me **samyusuf101@gmail.com**
-- **samyusuf.vercel.app**
+-https://samyusuf.vercel.app
 
 - ⚡ Fun fact **| I am funny and focused!!!**
 
